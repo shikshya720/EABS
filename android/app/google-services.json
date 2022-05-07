@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "2101763208",
+    "firebase_url": "https://slam-e81ad-default-rtdb.firebaseio.com",
+    "project_id": "slam-e81ad",
+    "storage_bucket": "slam-e81ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2101763208:android:b43765b425f5b5184bd33d",
+        "android_client_info": {
+          "package_name": "com.example.eabs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2101763208-eta3ll41hk0rbncsvb50o8f8ah7kdo3p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eabs",
+            "certificate_hash": "eecf1e538554a6fbccb35bc44fa5142c90d0cfb8"
+          }
+        },
+        {
+          "client_id": "2101763208-t3rh66c737ltv47jhgrev5js1ut9g6nt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvbhftNdDXqoGoygKJ4J2toRwgkFDsPSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2101763208-t3rh66c737ltv47jhgrev5js1ut9g6nt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
